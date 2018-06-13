@@ -1,0 +1,11 @@
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\bin\Debug\Technobook.Model.Global.dll
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\bin\Debug\Technobook.Model.Global.pdb
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\bin\Debug\ADOToolbox.dll
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\bin\Debug\Patterns.dll
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\bin\Debug\ADOToolbox.pdb
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\bin\Debug\Patterns.pdb
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\obj\Debug\Technobook.Model.Global.csprojAssemblyReference.cache
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\obj\Debug\Technobook.Model.Global.csproj.CoreCompileInputs.cache
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\obj\Debug\Technobook.Model.Global.csproj.CopyComplete
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\obj\Debug\Technobook.Model.Global.dll
+C:\Users\QMDev\source\repos\Technobook\Technobook.Model.Global\obj\Debug\Technobook.Model.Global.pdb

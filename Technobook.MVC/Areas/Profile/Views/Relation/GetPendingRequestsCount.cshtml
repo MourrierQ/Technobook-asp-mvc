@@ -1,0 +1,10 @@
+﻿@{ 
+    ViewBag.Title = "PendingRequestsCount";
+}
+
+@if(int.Parse(ViewBag.Count) > 0){
+    <li>
+        @Html.ActionLink((string)ViewBag.Count + (int.Parse(ViewBag.Count) > 1 ? " requests" : " request"), "GetFriendRequests", "User")
+    </li>
+
+}

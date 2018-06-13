@@ -1,0 +1,6 @@
+C:\Users\QMDev\source\repos\ContactManager\Patterns\bin\Debug\Patterns.dll
+C:\Users\QMDev\source\repos\ContactManager\Patterns\bin\Debug\Patterns.pdb
+C:\Users\QMDev\source\repos\ContactManager\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+C:\Users\QMDev\source\repos\ContactManager\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\QMDev\source\repos\ContactManager\Patterns\obj\Debug\Patterns.dll
+C:\Users\QMDev\source\repos\ContactManager\Patterns\obj\Debug\Patterns.pdb

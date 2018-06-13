@@ -1,0 +1,6 @@
+C:\Users\QMDev\source\repos\ContactManager\ADOToolbox\bin\Debug\ADOToolbox.dll
+C:\Users\QMDev\source\repos\ContactManager\ADOToolbox\bin\Debug\ADOToolbox.pdb
+C:\Users\QMDev\source\repos\ContactManager\ADOToolbox\obj\Debug\ADOToolbox.csprojAssemblyReference.cache
+C:\Users\QMDev\source\repos\ContactManager\ADOToolbox\obj\Debug\ADOToolbox.csproj.CoreCompileInputs.cache
+C:\Users\QMDev\source\repos\ContactManager\ADOToolbox\obj\Debug\ADOToolbox.dll
+C:\Users\QMDev\source\repos\ContactManager\ADOToolbox\obj\Debug\ADOToolbox.pdb
